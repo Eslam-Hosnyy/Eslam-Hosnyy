@@ -3,7 +3,8 @@
 
 
 - 👨‍💻 <Coding is().the(); Heartbeat //of my Life.
-- 💥 Finishing Embedded Systems Diploma.
+- 💥 Lover of Embedded Systems and am looking forward to increasing my experience in it.
+- 🤔 The next step is to study Artificial Intelligence... 
 - :mailbox: You can reach me with the links below...
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eslamhosny97)
