@@ -1,9 +1,7 @@
-<h1 align= "center"><b>Hey there🙋‍♂️, I am ESLAM </b></h1>
+<h1 align= "center"><b>Hey there🙋‍♂️,I'm ESLAM </b></h1>
 <p align="center"><img width=50% src="https://laurencteffeau.files.wordpress.com/2020/07/firecomputergliphy.gif?w=480"></p>
 
-##### Hi, I'm Adam:
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
