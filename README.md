@@ -2,7 +2,7 @@
 <p align="center"><img width=50% src="https://laurencteffeau.files.wordpress.com/2020/07/firecomputergliphy.gif?w=480"></p>
 
 
-- 👨‍💻 <Coding is().the Heartbeat(); //of my Life.
+- 👨‍💻 <Coding is the Heartbeat();
 - 💥 Lover of Embedded Systems and am looking forward to increasing my experience in it.
 - 🤔 The next step is to study Artificial Intelligence... 
 - :mailbox: You can reach me with the links below...
